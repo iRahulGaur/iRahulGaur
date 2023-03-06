@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [MyBlog (Free Blogging app for android)](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog "MyBlog")
 - 🌱 I’m currently learning Kotlin in android
+- 📶 My [portfolio](https://rahulgaur.dev/)
 - 💬 Ask me about Kotlin, Java, NodeJS
 - 📫 How to reach me: rahul.gaur152@gmail.com
 - ⚡ Fun fact: I m also available for Valorant 🎮
@@ -47,7 +48,7 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=irahulgaur&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=irahulgaur&show_icons=true&theme=radical&hide_border=true"
       />
     </a>
   </div>
@@ -57,7 +58,7 @@
       <img
         width="325"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahulgaur&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahulgaur&layout=compact&hide_border=true"
       />
     </a>
   </div>
@@ -65,7 +66,7 @@
   <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
-        src="https://activity-graph.herokuapp.com/graph?username=irahulgaur&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=irahulgaur&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
         alt="Contributions Graph"
         width="100%"
       />
