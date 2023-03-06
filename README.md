@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here :heart:
-[![Github Follow](https://img.shields.io/github/followers/irahulgaur?label=Follow%20me%20on%20github%21%21&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2adityarana&screen_name=ranaaditya03)
+![Github Follow](https://img.shields.io/github/followers/irahulgaur?label=Follow%20me%20on%20github%21%21&style=for-the-badge)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulgaur&label=Views&&color=green&style=flat-square" alt="rahulgaur" /> </p>
 
 <a href="https://twitter.com/irahulgaur07">
