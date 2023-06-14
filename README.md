@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- 🔭 I’m currently working on [MyBlog (Free Blogging app for android)](https://play.google.com/store/apps/details?id=com.rahulgaur.myblog "MyBlog")
+- 🔭 I’m currently working on [MyBlog (Free Blogging app for android)](https://github.com/iRahulGaur/MyBlogApp)
 - 🌱 I’m currently learning Kotlin in android
 - 📶 My [portfolio](https://rahulgaur.dev/)
 - 💬 Ask me about Kotlin, Java, NodeJS
