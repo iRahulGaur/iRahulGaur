@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<a align="center" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img
     align="left"
     width="396"
@@ -49,42 +49,12 @@
 <br />
 <br />
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img
-    align="left"
-    width="396"
-    src="https://github-readme-stats.vercel.app/api?username=irahulgaur&show_icons=true&theme=radical&hide_border=true"
-  />
-</a>
-
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    width="396"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahulgaur&layout=compact&hide_border=true&theme=radical"
-  />
-</a>
+<p> <br><br> </p>
 
-<br />
-<br />
-
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
-    <img
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=irahulgaur&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=My%20contribution%20to%20public%20repos"
-      alt="Contributions Graph"
-      width="100%"
-    />
-  </a>
-</div>
-
-<br />
-<br />
-
-<div align="center">
+<div>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
     <img src="https://github-profile-trophy.vercel.app/?username=irahulgaur&theme=nord&column=7" alt="Trophies" />
   </a>
