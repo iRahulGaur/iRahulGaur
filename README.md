@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [MyBlog (Free Blogging app for android)](https://github.com/iRahulGaur/MyBlogApp)
 - 🌱 I’m currently learning Kotlin in android
-- 📶 My [portfolio](https://rahulgaur.dev/)
+- 📶 My [portfolio](https://github.com/iRahulGaur/MobilePortfolio)
 - 💬 Ask me about Kotlin, Java, NodeJS
 - 📫 How to reach me: rahul.gaur152@gmail.com
 - ⚡ Fun fact: I m also available for Valorant 🎮
