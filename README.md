@@ -14,10 +14,6 @@ I'm Rahul, a passionate mobile app developer specializing in Kotlin, Java, and A
 [![Github Follow](https://img.shields.io/github/followers/irahulgaur?label=Follow%20me%20on%20github%21%21&style=for-the-badge)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FiRahulGaur%2F)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irahulgaur&label=Views&&color=green&style=flat-square" alt="rahulgaur" /> </p>
 
-<a href="https://twitter.com/irahulgaur07">
-  <img align="left" alt="Rahul Gaur's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <a href="https://linkedin.com/in/irahulgaur">
   <img align="left" alt="Rahul Gaur's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -31,10 +27,11 @@ I'm Rahul, a passionate mobile app developer specializing in Kotlin, Java, and A
 
 **Languages and Tools:**  
 
-<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
-<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/androidstudio.svg" />
-<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/java.svg" />
-<img align="left" alt="kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/kotlin.svg" />
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 <br>
 <br>
