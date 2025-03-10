@@ -1,12 +1,13 @@
 ### Hi there :wave:
 
-- 🔭 I’m currently working on [MyBlog (Free Blogging app for android)](https://github.com/iRahulGaur/MyBlogApp)
-- 🌱 I’m currently learning Kotlin in android
+I'm Rahul, a passionate mobile app developer specializing in Kotlin, Java, and Android development. I enjoy solving complex problems and building user-centric solutions. You can check out my projects below!
+
+- 🔭 I’m currently working on [Thoughtly (Free Blogging app for android)](https://github.com/HarshitaAppTech/ThoughtlyApp)
 - 📶 My Data [portfolio](https://github.com/iRahulGaur/Data-Engineering-Portfolio)
 - 📱 My Mobile [portfolio](https://github.com/iRahulGaur/MobilePortfolio)
-- 💬 Ask me about Kotlin, Java, NodeJS
+- 💬 Ask me about Kotlin, Java, SwiftUI and NodeJS
 - 📫 How to reach me: rahul.gaur152@gmail.com
-- ⚡ Fun fact: I m also available for Valorant 🎮
+- ⚡ Fun fact: I'm always up for a game of Valorant! 🎮
 
 
 ### Glad to see you here :heart:
