@@ -34,24 +34,6 @@ I'm Rahul, a passionate mobile app developer specializing in Kotlin, Java, and A
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 <br>
-<br>
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img
-    align="left"
-    width="396"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=irahulgaur&theme=radical&border=61dafb&hide_border=true"
-    alt="zumrudu-anka"
-  />
-</a>
-
-<br />
-<br />
-
-<br />
-<br />
-
-<p> <br><br> </p>
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
